@@ -1,0 +1,18 @@
+.bg-custom-orange {
+  width: 100%;
+  background-color: #ff6900;
+}
+
+.nav-link {
+  color: #ff6900 !important;
+}
+.nav-link.active {
+  background-color: #ff6900 !important;
+  /* Cambia el color de fondo cuando el enlace está activo */
+  color: #ffffff !important;
+  /* Cambia el color del texto cuando el enlace está activo */
+}
+
+.custom-footer-text-color {
+    color: #ffffff !important;
+}
