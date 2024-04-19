@@ -13,8 +13,9 @@ fetch(urlFamilias)
     for (let i = 0; i < totalFamilias; i++) {
       let opcion = document.createElement("option");
       console.log(listadoFamilias[i]);
-      opcion.value = listadoFamilias[i].codfamilia;
-      opcion.innerHTML = listadoFamilias[i].nombfamilia;
+      opcion.value = listadoFamilias[i].codigo;
+      console.log("Value",opcion.value);
+      opcion.innerHTML = listadoFamilias[i].familia;
       document.getElementById("familias").appendChild(opcion);
     }
     let datos;

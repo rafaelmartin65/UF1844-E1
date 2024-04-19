@@ -7,7 +7,7 @@
 
 <body>
 
-	<footer class="container-fluid pt-2 text-bg-info mt-2 fixed-bottom" style="height: 50px;">
+	<footer class="container-fluid pt-2 text-bg-primary mt-2 fixed-bottom" style="height: 50px;">
 		<div class="row">
 			<div class="col-10 d-flex justify-content-center">
 				&copy; 2021 <a href="https://www.icex.es/icex/es/Navegacion-zona-contacto/revista-el-exportador/en-cifras/index.html"> Conoce nuestas cifras de negocio</a>

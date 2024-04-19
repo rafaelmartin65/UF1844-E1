@@ -9,14 +9,14 @@
 </head>
 
 <body>
-	<header class="container-fluid text-bg-info">
+	<header class="container-fluid text-bg-primary">
 		<div class="row">
 			<div class="col">
-				<img id="logo-imagen" src="./logos/Logo.webp" alt="Logo" id="logo" width="120px"/>
+				<img id="logo-imagen" src="./logos/zalandologo.png" alt="Logo" id="logo" width="120px"/>
 			</div>
 			<div class="col-8">
-				<h1>Listado de Productos KFC</h1>
-				<p class="fs-6">Productos Alimenticios</p>
+				<h1>Listado de Productos Zalando</h1>
+				<p class="fs-6">Productos</p>
 			</div>
 			<nav class="col-3">
 				<ul class="list-group list-group-horizontal">
